@@ -1,0 +1,10 @@
+C:\Users\Justin\documents\visual studio 2010\Projects\Triangular Sides Calculator\Triangular Sides Calculator\bin\Debug\Triangular Sides Calculator.exe
+C:\Users\Justin\documents\visual studio 2010\Projects\Triangular Sides Calculator\Triangular Sides Calculator\bin\Debug\Triangular Sides Calculator.pdb
+C:\Users\Justin\documents\visual studio 2010\Projects\Triangular Sides Calculator\Triangular Sides Calculator\bin\Debug\Triangular Sides Calculator.xml
+C:\Users\Justin\documents\visual studio 2010\Projects\Triangular Sides Calculator\Triangular Sides Calculator\obj\x86\Debug\Triangular_Sides_Calculator.Form1.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\Triangular Sides Calculator\Triangular Sides Calculator\obj\x86\Debug\Triangular_Sides_Calculator.Resources.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\Triangular Sides Calculator\Triangular Sides Calculator\obj\x86\Debug\Triangular Sides Calculator.vbproj.GenerateResource.Cache
+C:\Users\Justin\documents\visual studio 2010\Projects\Triangular Sides Calculator\Triangular Sides Calculator\obj\x86\Debug\Triangular Sides Calculator.exe
+C:\Users\Justin\documents\visual studio 2010\Projects\Triangular Sides Calculator\Triangular Sides Calculator\obj\x86\Debug\Triangular Sides Calculator.xml
+C:\Users\Justin\documents\visual studio 2010\Projects\Triangular Sides Calculator\Triangular Sides Calculator\obj\x86\Debug\Triangular Sides Calculator.pdb
+C:\Users\Justin\documents\visual studio 2010\Projects\Triangular Sides Calculator\Triangular Sides Calculator\obj\x86\Debug\Triangular_Sides_Calculator.Form2.resources
